@@ -1,0 +1,7 @@
+D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\obj\Debug\net5.0\BackendTestMilTec.csprojAssemblyReference.cache
+D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\obj\Debug\net5.0\BackendTestMilTec.GeneratedMSBuildEditorConfig.editorconfig
+D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\obj\Debug\net5.0\BackendTestMilTec.AssemblyInfoInputs.cache
+D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\obj\Debug\net5.0\BackendTestMilTec.AssemblyInfo.cs
+D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\obj\Debug\net5.0\BackendTestMilTec.csproj.CoreCompileInputs.cache
+D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\obj\Debug\net5.0\BackendTestMilTec.MvcApplicationPartsAssemblyInfo.cs
+D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\obj\Debug\net5.0\BackendTestMilTec.MvcApplicationPartsAssemblyInfo.cache

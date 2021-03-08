@@ -1,0 +1,72 @@
+C:\Users\andre\Google Drive (andr3y.lim1@g7suite.me)\Projetos_teste\WebApplication3\WebApplication3\obj\Debug\net5.0\WebApplication3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Google Drive (andr3y.lim1@g7suite.me)\Projetos_teste\WebApplication3\WebApplication3\obj\Debug\net5.0\WebApplication3.AssemblyInfoInputs.cache
+C:\Users\andre\Google Drive (andr3y.lim1@g7suite.me)\Projetos_teste\WebApplication3\WebApplication3\obj\Debug\net5.0\WebApplication3.AssemblyInfo.cs
+C:\Users\andre\Google Drive (andr3y.lim1@g7suite.me)\Projetos_teste\WebApplication3\WebApplication3\obj\Debug\net5.0\WebApplication3.csproj.CoreCompileInputs.cache
+C:\Users\andre\Google Drive (andr3y.lim1@g7suite.me)\Projetos_teste\WebApplication3\WebApplication3\obj\Debug\net5.0\WebApplication3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\andre\Google Drive (andr3y.lim1@g7suite.me)\Projetos_teste\WebApplication3\WebApplication3\obj\Debug\net5.0\WebApplication3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\andre\Google Drive (andr3y.lim1@g7suite.me)\Projetos_teste\WebApplication3\WebApplication3\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\andre\Google Drive (andr3y.lim1@g7suite.me)\Projetos_teste\WebApplication3\WebApplication3\bin\Debug\net5.0\appsettings.json
+C:\Users\andre\Google Drive (andr3y.lim1@g7suite.me)\Projetos_teste\WebApplication3\WebApplication3\bin\Debug\net5.0\Books\books.json
+C:\Users\andre\Google Drive (andr3y.lim1@g7suite.me)\Projetos_teste\WebApplication3\WebApplication3\bin\Debug\net5.0\DataBase\books.json
+C:\Users\andre\Google Drive (andr3y.lim1@g7suite.me)\Projetos_teste\WebApplication3\WebApplication3\bin\Debug\net5.0\WebApplication3.exe
+C:\Users\andre\Google Drive (andr3y.lim1@g7suite.me)\Projetos_teste\WebApplication3\WebApplication3\bin\Debug\net5.0\WebApplication3.deps.json
+C:\Users\andre\Google Drive (andr3y.lim1@g7suite.me)\Projetos_teste\WebApplication3\WebApplication3\bin\Debug\net5.0\WebApplication3.runtimeconfig.json
+C:\Users\andre\Google Drive (andr3y.lim1@g7suite.me)\Projetos_teste\WebApplication3\WebApplication3\bin\Debug\net5.0\WebApplication3.runtimeconfig.dev.json
+C:\Users\andre\Google Drive (andr3y.lim1@g7suite.me)\Projetos_teste\WebApplication3\WebApplication3\bin\Debug\net5.0\WebApplication3.dll
+C:\Users\andre\Google Drive (andr3y.lim1@g7suite.me)\Projetos_teste\WebApplication3\WebApplication3\bin\Debug\net5.0\ref\WebApplication3.dll
+C:\Users\andre\Google Drive (andr3y.lim1@g7suite.me)\Projetos_teste\WebApplication3\WebApplication3\bin\Debug\net5.0\WebApplication3.pdb
+C:\Users\andre\Google Drive (andr3y.lim1@g7suite.me)\Projetos_teste\WebApplication3\WebApplication3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\andre\Google Drive (andr3y.lim1@g7suite.me)\Projetos_teste\WebApplication3\WebApplication3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\andre\Google Drive (andr3y.lim1@g7suite.me)\Projetos_teste\WebApplication3\WebApplication3\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\andre\Google Drive (andr3y.lim1@g7suite.me)\Projetos_teste\WebApplication3\WebApplication3\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\andre\Google Drive (andr3y.lim1@g7suite.me)\Projetos_teste\WebApplication3\WebApplication3\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\andre\Google Drive (andr3y.lim1@g7suite.me)\Projetos_teste\WebApplication3\WebApplication3\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\andre\Google Drive (andr3y.lim1@g7suite.me)\Projetos_teste\WebApplication3\WebApplication3\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\andre\Google Drive (andr3y.lim1@g7suite.me)\Projetos_teste\WebApplication3\WebApplication3\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\andre\Google Drive (andr3y.lim1@g7suite.me)\Projetos_teste\WebApplication3\WebApplication3\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\andre\Google Drive (andr3y.lim1@g7suite.me)\Projetos_teste\WebApplication3\WebApplication3\obj\Debug\net5.0\staticwebassets\WebApplication3.StaticWebAssets.Manifest.cache
+C:\Users\andre\Google Drive (andr3y.lim1@g7suite.me)\Projetos_teste\WebApplication3\WebApplication3\obj\Debug\net5.0\staticwebassets\WebApplication3.StaticWebAssets.xml
+C:\Users\andre\Google Drive (andr3y.lim1@g7suite.me)\Projetos_teste\WebApplication3\WebApplication3\obj\Debug\net5.0\scopedcss\bundle\WebApplication3.styles.css
+C:\Users\andre\Google Drive (andr3y.lim1@g7suite.me)\Projetos_teste\WebApplication3\WebApplication3\obj\Debug\net5.0\WebApplication3.RazorTargetAssemblyInfo.cache
+C:\Users\andre\Google Drive (andr3y.lim1@g7suite.me)\Projetos_teste\WebApplication3\WebApplication3\obj\Debug\net5.0\WebApplication3.csproj.CopyComplete
+C:\Users\andre\Google Drive (andr3y.lim1@g7suite.me)\Projetos_teste\WebApplication3\WebApplication3\obj\Debug\net5.0\WebApplication3.dll
+C:\Users\andre\Google Drive (andr3y.lim1@g7suite.me)\Projetos_teste\WebApplication3\WebApplication3\obj\Debug\net5.0\ref\WebApplication3.dll
+C:\Users\andre\Google Drive (andr3y.lim1@g7suite.me)\Projetos_teste\WebApplication3\WebApplication3\obj\Debug\net5.0\WebApplication3.pdb
+C:\Users\andre\Google Drive (andr3y.lim1@g7suite.me)\Projetos_teste\WebApplication3\WebApplication3\obj\Debug\net5.0\WebApplication3.genruntimeconfig.cache
+C:\Users\andre\Google Drive (andr3y.lim1@g7suite.me)\Projetos_teste\WebApplication3\WebApplication3\obj\Debug\net5.0\WebApplication3.csprojAssemblyReference.cache
+D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\obj\Debug\net5.0\WebApplication3.GeneratedMSBuildEditorConfig.editorconfig
+D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\obj\Debug\net5.0\WebApplication3.AssemblyInfoInputs.cache
+D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\obj\Debug\net5.0\WebApplication3.AssemblyInfo.cs
+D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\obj\Debug\net5.0\WebApplication3.csproj.CoreCompileInputs.cache
+D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\obj\Debug\net5.0\WebApplication3.MvcApplicationPartsAssemblyInfo.cs
+D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\obj\Debug\net5.0\WebApplication3.MvcApplicationPartsAssemblyInfo.cache
+D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\obj\Debug\net5.0\WebApplication3.dll
+D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\obj\Debug\net5.0\ref\WebApplication3.dll
+D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\obj\Debug\net5.0\WebApplication3.pdb
+D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\bin\Debug\net5.0\appsettings.Development.json
+D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\bin\Debug\net5.0\appsettings.json
+D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\bin\Debug\net5.0\Books\books.json
+D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\bin\Debug\net5.0\DataBase\books.json
+D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\bin\Debug\net5.0\WebApplication3.exe
+D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\bin\Debug\net5.0\WebApplication3.deps.json
+D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\bin\Debug\net5.0\WebApplication3.runtimeconfig.json
+D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\bin\Debug\net5.0\WebApplication3.runtimeconfig.dev.json
+D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\bin\Debug\net5.0\WebApplication3.dll
+D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\bin\Debug\net5.0\ref\WebApplication3.dll
+D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\bin\Debug\net5.0\WebApplication3.pdb
+D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\obj\Debug\net5.0\staticwebassets\WebApplication3.StaticWebAssets.Manifest.cache
+D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\obj\Debug\net5.0\staticwebassets\WebApplication3.StaticWebAssets.xml
+D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\obj\Debug\net5.0\scopedcss\bundle\WebApplication3.styles.css
+D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\obj\Debug\net5.0\WebApplication3.RazorTargetAssemblyInfo.cache
+D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\obj\Debug\net5.0\WebApplication3.csproj.CopyComplete
+D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\obj\Debug\net5.0\WebApplication3.genruntimeconfig.cache
+D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\obj\Debug\net5.0\WebApplication3.csprojAssemblyReference.cache
