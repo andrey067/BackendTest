@@ -10,9 +10,9 @@ namespace BackendTest.Books.Repository
     public class BookRepository : IBookRepository
     {
 
-        private string texto = File.ReadAllText(@"D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\Books\books.json");
+        private string texto = File.ReadAllText(@".\Books\books.json");
 
-        public async Task<IEnumerable<Book>> ObterTodosLivrosAsync()
+        public  IEnumerable<Book> ObterTodosLivrosAsync()
         {
 
             var biblioteca = JsonConvert.DeserializeObject<List<Book>>(texto);
@@ -22,7 +22,7 @@ namespace BackendTest.Books.Repository
         }
 
 
-        public async Task<List<string>> ObterNomesAsync(string nome)
+        public  List<string> ObterNomesAsync(string nome)
         {
 
             var biblioteca = JsonConvert.DeserializeObject<List<Book>>(texto);
@@ -44,7 +44,7 @@ namespace BackendTest.Books.Repository
 
         }
 
-        public async Task<List<string>> ObterAutorAsync(string author)
+        public  List<string> ObterAutorAsync(string author)
         {
 
             var biblioteca = JsonConvert.DeserializeObject<List<Book>>(texto);
@@ -64,35 +64,21 @@ namespace BackendTest.Books.Repository
             return autores;
 
         }
-        public async Task<List<string>> BuscaTotal(string texto)
+        public  List<string> BuscaTotal(string genres)
         {
-
             var biblioteca = JsonConvert.DeserializeObject<List<Book>>(texto);
+            List<string> ListaGeneros = new List<string>();
 
-            biblioteca.Contains(texto);
-            
-            
-            
-            
-            
-            //List<string> ListaGeneros = new List<string>();
+            foreach (Book livro in biblioteca)
+            {
+                ListaGeneros.Add(livro.specifications.ToString());
+            }
 
-            //foreach (Book livro in biblioteca)
-            //{
-            //    if (livro.specifications.Genres.)
-            //    {
-            //        var genero = ListaGeneros.Find(x => x.Contains(genres));
-            //        return genero;
-            //    }
-            //    else
-            //    {
-            //        var genero = "Genero não encontrado";
-            //        return genero;
-            //    }
-            //}
+            ListaGeneros.Contains(genres);
 
 
-            //ListaGeneros.Add(livro.specifications.Genres.ToString());
+            return ListaGeneros;
+
 
 
         }

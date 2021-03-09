@@ -8,14 +8,14 @@ namespace BackendTest.Books.Repository
     public interface IBookRepository
     {
 
-        Task<IEnumerable<Book>> ObterTodosLivrosAsync();
+        IEnumerable<Book> ObterTodosLivrosAsync();
 
-        Task<List<string>> ObterNomesAsync(string nome);
+        List<string> ObterNomesAsync(string nome);
 
-        Task<List<string>> ObterAutorAsync(string author);
+        List<string> ObterAutorAsync(string author);
 
 
-        Task<List<string>> BuscaTotal(string genres);
+        List<string> BuscaTotal(string genres);
 
     }
 }

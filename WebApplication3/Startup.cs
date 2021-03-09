@@ -11,7 +11,6 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using WebApplication3.DataBase;
 using Microsoft.EntityFrameworkCore;
 using BackendTest.Books.Repository;
 
@@ -33,7 +32,6 @@ namespace BackendTest
         {
             services.AddScoped<IBookRepository, BookRepository>();
             services.AddControllers();
-            //services.AddDbContext<BookContext>(opt =>opt.UseInMemoryDatabase("Biblioteca"));
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "WebApplication3", Version = "v1" });

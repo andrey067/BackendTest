@@ -5,3 +5,38 @@ D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\obj\Debug\net5.0\Backe
 D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\obj\Debug\net5.0\BackendTestMilTec.csproj.CoreCompileInputs.cache
 D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\obj\Debug\net5.0\BackendTestMilTec.MvcApplicationPartsAssemblyInfo.cs
 D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\obj\Debug\net5.0\BackendTestMilTec.MvcApplicationPartsAssemblyInfo.cache
+D:\Google Drive GSuite\Projetos\BackendTest\BackendeTeste\BackendTest\WebApplication3\obj\Debug\net5.0\BackendTestMilTec.GeneratedMSBuildEditorConfig.editorconfig
+D:\Google Drive GSuite\Projetos\BackendTest\BackendeTeste\BackendTest\WebApplication3\obj\Debug\net5.0\BackendTestMilTec.AssemblyInfoInputs.cache
+D:\Google Drive GSuite\Projetos\BackendTest\BackendeTeste\BackendTest\WebApplication3\obj\Debug\net5.0\BackendTestMilTec.AssemblyInfo.cs
+D:\Google Drive GSuite\Projetos\BackendTest\BackendeTeste\BackendTest\WebApplication3\obj\Debug\net5.0\BackendTestMilTec.csproj.CoreCompileInputs.cache
+D:\Google Drive GSuite\Projetos\BackendTest\BackendeTeste\BackendTest\WebApplication3\obj\Debug\net5.0\BackendTestMilTec.MvcApplicationPartsAssemblyInfo.cs
+D:\Google Drive GSuite\Projetos\BackendTest\BackendeTeste\BackendTest\WebApplication3\obj\Debug\net5.0\BackendTestMilTec.MvcApplicationPartsAssemblyInfo.cache
+D:\Google Drive GSuite\Projetos\BackendTest\BackendeTeste\BackendTest\WebApplication3\bin\Debug\net5.0\appsettings.Development.json
+D:\Google Drive GSuite\Projetos\BackendTest\BackendeTeste\BackendTest\WebApplication3\bin\Debug\net5.0\appsettings.json
+D:\Google Drive GSuite\Projetos\BackendTest\BackendeTeste\BackendTest\WebApplication3\bin\Debug\net5.0\Books\books.json
+D:\Google Drive GSuite\Projetos\BackendTest\BackendeTeste\BackendTest\WebApplication3\bin\Debug\net5.0\DataBase\books.json
+D:\Google Drive GSuite\Projetos\BackendTest\BackendeTeste\BackendTest\WebApplication3\bin\Debug\net5.0\BackendTestMilTec.exe
+D:\Google Drive GSuite\Projetos\BackendTest\BackendeTeste\BackendTest\WebApplication3\bin\Debug\net5.0\BackendTestMilTec.deps.json
+D:\Google Drive GSuite\Projetos\BackendTest\BackendeTeste\BackendTest\WebApplication3\bin\Debug\net5.0\BackendTestMilTec.runtimeconfig.json
+D:\Google Drive GSuite\Projetos\BackendTest\BackendeTeste\BackendTest\WebApplication3\bin\Debug\net5.0\BackendTestMilTec.runtimeconfig.dev.json
+D:\Google Drive GSuite\Projetos\BackendTest\BackendeTeste\BackendTest\WebApplication3\bin\Debug\net5.0\BackendTestMilTec.dll
+D:\Google Drive GSuite\Projetos\BackendTest\BackendeTeste\BackendTest\WebApplication3\bin\Debug\net5.0\ref\BackendTestMilTec.dll
+D:\Google Drive GSuite\Projetos\BackendTest\BackendeTeste\BackendTest\WebApplication3\bin\Debug\net5.0\BackendTestMilTec.pdb
+D:\Google Drive GSuite\Projetos\BackendTest\BackendeTeste\BackendTest\WebApplication3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Google Drive GSuite\Projetos\BackendTest\BackendeTeste\BackendTest\WebApplication3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Google Drive GSuite\Projetos\BackendTest\BackendeTeste\BackendTest\WebApplication3\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Google Drive GSuite\Projetos\BackendTest\BackendeTeste\BackendTest\WebApplication3\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Google Drive GSuite\Projetos\BackendTest\BackendeTeste\BackendTest\WebApplication3\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Google Drive GSuite\Projetos\BackendTest\BackendeTeste\BackendTest\WebApplication3\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Google Drive GSuite\Projetos\BackendTest\BackendeTeste\BackendTest\WebApplication3\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Google Drive GSuite\Projetos\BackendTest\BackendeTeste\BackendTest\WebApplication3\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Google Drive GSuite\Projetos\BackendTest\BackendeTeste\BackendTest\WebApplication3\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Google Drive GSuite\Projetos\BackendTest\BackendeTeste\BackendTest\WebApplication3\obj\Debug\net5.0\staticwebassets\BackendTestMilTec.StaticWebAssets.Manifest.cache
+D:\Google Drive GSuite\Projetos\BackendTest\BackendeTeste\BackendTest\WebApplication3\obj\Debug\net5.0\staticwebassets\BackendTestMilTec.StaticWebAssets.xml
+D:\Google Drive GSuite\Projetos\BackendTest\BackendeTeste\BackendTest\WebApplication3\obj\Debug\net5.0\scopedcss\bundle\BackendTestMilTec.styles.css
+D:\Google Drive GSuite\Projetos\BackendTest\BackendeTeste\BackendTest\WebApplication3\obj\Debug\net5.0\BackendTestMilTec.RazorTargetAssemblyInfo.cache
+D:\Google Drive GSuite\Projetos\BackendTest\BackendeTeste\BackendTest\WebApplication3\obj\Debug\net5.0\BackendTestMilTec.csproj.CopyComplete
+D:\Google Drive GSuite\Projetos\BackendTest\BackendeTeste\BackendTest\WebApplication3\obj\Debug\net5.0\BackendTestMilTec.dll
+D:\Google Drive GSuite\Projetos\BackendTest\BackendeTeste\BackendTest\WebApplication3\obj\Debug\net5.0\ref\BackendTestMilTec.dll
+D:\Google Drive GSuite\Projetos\BackendTest\BackendeTeste\BackendTest\WebApplication3\obj\Debug\net5.0\BackendTestMilTec.pdb
+D:\Google Drive GSuite\Projetos\BackendTest\BackendeTeste\BackendTest\WebApplication3\obj\Debug\net5.0\BackendTestMilTec.genruntimeconfig.cache
