@@ -63,11 +63,11 @@ namespace BackendTest.Controllers
 
 
         [HttpGet("GetbyBuscaTotal/{genres}")]
-        public  List<string> GetGeneroLivros(string texto)
+        public  List<string> GetGeneroLivros(string genres)
         {
 
 
-            var biblioteca = _bookRepository.BuscaTotal(texto);
+            var biblioteca = _bookRepository.BuscaTotal(genres);
 
             return biblioteca;
         }
