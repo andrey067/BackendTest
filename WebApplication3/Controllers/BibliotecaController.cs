@@ -26,51 +26,51 @@ namespace BackendTest.Controllers
         }
         // GET:
         [HttpGet]
-        public async Task<IEnumerable<Book>> Getlivros()
+        public List<Book> Getlivros()
         {
 
-            return await _bookRepository.ObterTodosLivrosAsync();
+            return  _bookRepository.BuscarLivros();
 
         }
 
-        [HttpGet("GetById/{id}")]
-        public async Task<IEnumerable<Book>> GetNomeLivros(int id)
-        {
-            var biblioteca = await _bookRepository.ObterTodosLivrosAsync();
+        //[HttpGet("GetById/{id}")]
+        //public async Task<IEnumerable<Book>> GetNomeLivros(int id)
+        //{
+        //    var biblioteca = await _bookRepository.ObterTodosLivrosAsync();
 
-            return biblioteca.Where(x=> x.Id == id);
-        }
+        //    return biblioteca.Where(x=> x.Id == id);
+        //}
 
-        [HttpGet("GetByNome/{nome}")]
-        public async Task<IEnumerable<string>> GetNomeLivros(string nome)
-        {
+        //[HttpGet("GetByNome/{nome}")]
+        //public async Task<IEnumerable<string>> GetNomeLivros(string nome)
+        //{
 
            
-            var biblioteca = await _bookRepository.ObterNomesAsync(nome);
+        //    var biblioteca = await _bookRepository.ObterNomesAsync(nome);
 
-            return biblioteca;
-        }
+        //    return biblioteca;
+        //}
 
-        [HttpGet("GetByAutor/{author}")]
-        public async Task<IEnumerable<string>> GetAutorLivros(string author)
-        {
+        //[HttpGet("GetByAutor/{author}")]
+        //public async Task<IEnumerable<string>> GetAutorLivros(string author)
+        //{
 
            
-            var biblioteca = await _bookRepository.ObterAutorAsync(author);
+        //    var biblioteca = await _bookRepository.ObterAutorAsync(author);
 
-            return biblioteca;
-        }
-
-
-        [HttpGet("GetbyBuscaTotal/{texto}")]
-        public async Task<string> GetGeneroLivros(string texto)
-        {
+        //    return biblioteca;
+        //}
 
 
-            var biblioteca = await _bookRepository.BuscaTotal(texto);
+        //[HttpGet("GetbyBuscaTotal/{texto}")]
+        //public async Task<string> GetGeneroLivros(string texto)
+        //{
 
-            return biblioteca;
-        }
+
+        //    var biblioteca = await _bookRepository.BuscaTotal(texto);
+
+        //    return biblioteca;
+        //}
 
 
 

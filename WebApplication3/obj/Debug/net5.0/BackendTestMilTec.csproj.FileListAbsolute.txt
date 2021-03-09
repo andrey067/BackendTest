@@ -5,3 +5,37 @@ D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\obj\Debug\net5.0\Backe
 D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\obj\Debug\net5.0\BackendTestMilTec.csproj.CoreCompileInputs.cache
 D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\obj\Debug\net5.0\BackendTestMilTec.MvcApplicationPartsAssemblyInfo.cs
 D:\EntrevistaTeste MilTec\WebApplication3\WebApplication3\obj\Debug\net5.0\BackendTestMilTec.MvcApplicationPartsAssemblyInfo.cache
+E:\Repositorios e Projetos\BackEndTeste\BackendTest\WebApplication3\bin\Debug\net5.0\appsettings.Development.json
+E:\Repositorios e Projetos\BackEndTeste\BackendTest\WebApplication3\bin\Debug\net5.0\appsettings.json
+E:\Repositorios e Projetos\BackEndTeste\BackendTest\WebApplication3\bin\Debug\net5.0\Services\books.json
+E:\Repositorios e Projetos\BackEndTeste\BackendTest\WebApplication3\bin\Debug\net5.0\BackendTestMilTec.exe
+E:\Repositorios e Projetos\BackEndTeste\BackendTest\WebApplication3\bin\Debug\net5.0\BackendTestMilTec.deps.json
+E:\Repositorios e Projetos\BackEndTeste\BackendTest\WebApplication3\bin\Debug\net5.0\BackendTestMilTec.runtimeconfig.json
+E:\Repositorios e Projetos\BackEndTeste\BackendTest\WebApplication3\bin\Debug\net5.0\BackendTestMilTec.runtimeconfig.dev.json
+E:\Repositorios e Projetos\BackEndTeste\BackendTest\WebApplication3\bin\Debug\net5.0\BackendTestMilTec.dll
+E:\Repositorios e Projetos\BackEndTeste\BackendTest\WebApplication3\bin\Debug\net5.0\ref\BackendTestMilTec.dll
+E:\Repositorios e Projetos\BackEndTeste\BackendTest\WebApplication3\bin\Debug\net5.0\BackendTestMilTec.pdb
+E:\Repositorios e Projetos\BackEndTeste\BackendTest\WebApplication3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Repositorios e Projetos\BackEndTeste\BackendTest\WebApplication3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Repositorios e Projetos\BackEndTeste\BackendTest\WebApplication3\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Repositorios e Projetos\BackEndTeste\BackendTest\WebApplication3\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Repositorios e Projetos\BackEndTeste\BackendTest\WebApplication3\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Repositorios e Projetos\BackEndTeste\BackendTest\WebApplication3\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Repositorios e Projetos\BackEndTeste\BackendTest\WebApplication3\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Repositorios e Projetos\BackEndTeste\BackendTest\WebApplication3\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Repositorios e Projetos\BackEndTeste\BackendTest\WebApplication3\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Repositorios e Projetos\BackEndTeste\BackendTest\WebApplication3\obj\Debug\net5.0\BackendTestMilTec.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositorios e Projetos\BackEndTeste\BackendTest\WebApplication3\obj\Debug\net5.0\BackendTestMilTec.AssemblyInfoInputs.cache
+E:\Repositorios e Projetos\BackEndTeste\BackendTest\WebApplication3\obj\Debug\net5.0\BackendTestMilTec.AssemblyInfo.cs
+E:\Repositorios e Projetos\BackEndTeste\BackendTest\WebApplication3\obj\Debug\net5.0\BackendTestMilTec.csproj.CoreCompileInputs.cache
+E:\Repositorios e Projetos\BackEndTeste\BackendTest\WebApplication3\obj\Debug\net5.0\BackendTestMilTec.MvcApplicationPartsAssemblyInfo.cs
+E:\Repositorios e Projetos\BackEndTeste\BackendTest\WebApplication3\obj\Debug\net5.0\BackendTestMilTec.MvcApplicationPartsAssemblyInfo.cache
+E:\Repositorios e Projetos\BackEndTeste\BackendTest\WebApplication3\obj\Debug\net5.0\staticwebassets\BackendTestMilTec.StaticWebAssets.Manifest.cache
+E:\Repositorios e Projetos\BackEndTeste\BackendTest\WebApplication3\obj\Debug\net5.0\staticwebassets\BackendTestMilTec.StaticWebAssets.xml
+E:\Repositorios e Projetos\BackEndTeste\BackendTest\WebApplication3\obj\Debug\net5.0\scopedcss\bundle\BackendTestMilTec.styles.css
+E:\Repositorios e Projetos\BackEndTeste\BackendTest\WebApplication3\obj\Debug\net5.0\BackendTestMilTec.RazorTargetAssemblyInfo.cache
+E:\Repositorios e Projetos\BackEndTeste\BackendTest\WebApplication3\obj\Debug\net5.0\BackendTestMilTec.csproj.CopyComplete
+E:\Repositorios e Projetos\BackEndTeste\BackendTest\WebApplication3\obj\Debug\net5.0\BackendTestMilTec.dll
+E:\Repositorios e Projetos\BackEndTeste\BackendTest\WebApplication3\obj\Debug\net5.0\ref\BackendTestMilTec.dll
+E:\Repositorios e Projetos\BackEndTeste\BackendTest\WebApplication3\obj\Debug\net5.0\BackendTestMilTec.pdb
+E:\Repositorios e Projetos\BackEndTeste\BackendTest\WebApplication3\obj\Debug\net5.0\BackendTestMilTec.genruntimeconfig.cache

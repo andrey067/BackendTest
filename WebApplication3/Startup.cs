@@ -1,19 +1,12 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using WebApplication3.DataBase;
-using Microsoft.EntityFrameworkCore;
 using BackendTest.Books.Repository;
+using BackendTestMilTec.Repository;
 
 namespace BackendTest
 {
@@ -29,11 +22,16 @@ namespace BackendTest
         public IConfiguration Configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
+
+        //Adiciona os repositories e services
         public void ConfigureServices(IServiceCollection services)
         {
+            //Repositories
             services.AddScoped<IBookRepository, BookRepository>();
+            //Services
+            services.AddScoped<IJsonFile, JsonFile>();
+
             services.AddControllers();
-            //services.AddDbContext<BookContext>(opt =>opt.UseInMemoryDatabase("Biblioteca"));
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "WebApplication3", Version = "v1" });
